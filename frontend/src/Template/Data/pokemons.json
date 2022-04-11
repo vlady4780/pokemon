@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "numero":"001",
+        "nombre":"Bulbasaur",
+        "tipo":["Planta","Veneno"],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png"
+    },
+    {
+        "id":4,
+        "numero":"004",
+        "nombre":"Charmander",
+        "tipo":["Fuego"],
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png"
+    },
+    {
+        "id":7,
+        "numero":"007",
+        "nombre":"Squirtle",
+        "tipo":["Agua"],
+        "img":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png"
+    }
+]
